@@ -1,0 +1,54 @@
+body {
+  background: #ffebc5;
+  font-family: arial;
+}
+p {
+  color: orange;
+  font-family: arial;
+  font-size: 17px;
+
+}
+h1 {
+  font-family:fantasy;
+  font-weight: bold;
+  color:red;
+  font-size: 40px;
+}
+h2{
+  color: red;
+  font-family: fantasy;
+  font-size: 30px;
+
+  }
+h3{color: forestgreen;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+h4{
+  color:forestgreen;
+  font-family: fantasy;
+  font-size: 20px;
+
+  
+}
+h5{color:orange;
+  font-family: fantasy;
+  font-size: 17px;
+}
+img{
+  width:140px;
+  float:right;
+  border-style:ridge
+}
+ul{color: orange;
+  font-family: arial;
+  font-size: 17px;
+}
+
+li{  color: orange;
+  font-family: arial;
+  font-size: 17px;
+
+
+}
